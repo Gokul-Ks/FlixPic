@@ -1,5 +1,5 @@
 # FlixPic
-Movie Recommendor App Using Streamlit
+Movie Recommender App Using Streamlit
 
 <p align="center">
   <img style="width:26rem; height:auto" src="/resources/imgs/img1"/>
