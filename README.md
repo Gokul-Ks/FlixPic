@@ -2,7 +2,7 @@
 Movie Recommender App Using Streamlit
 
 <p align="center">
-  <img style="width:26rem; height:auto" src="https://i.ibb.co/K0GJV8g/img1.png"/>
+  <img style="width:36rem; height:auto" src="https://i.ibb.co/K0GJV8g/img1.png"/>
 </p>
 
 <h2>Algorithm</h2>
