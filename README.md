@@ -16,5 +16,5 @@ Movie Recommender App Using Streamlit
 </ul>
 
 <p align="center">
-  <img style="width:26rem; height:auto" src="https://i.ibb.co/HhyzJhy/img2.png/>
+  <img style="width:26rem; height:auto" src="https://i.ibb.co/HhyzJhy/img2.png/">
 </p>
